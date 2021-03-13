@@ -5,4 +5,5 @@ This application was written by Yazmin Reyes. Its objective is to visualize powe
                                                                         <b>Shiny Dashboard Library:</b> https://rstudio.github.io/shinydashboard/ <br/>
                                                                         <b>Leaflet for R Documentation:</b> https://rstudio.github.io/leaflet/ <br/>
                                                                         References to <b>Stack Overflow</b> and <b>Piazza</b> for specific R/Shiny/data usage <br/><br/>
+                                                                        To run the application, download the app.r file and run on R Studio. If the data file is not available, download the CSV and image files and change directory. <br/><br/>
                                                                         Last Revised: 3/13/2021
